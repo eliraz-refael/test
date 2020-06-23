@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.1.8",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "npm-check-updates": "^7.0.1",
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
