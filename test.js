@@ -10,5 +10,6 @@ let msg = JSON.stringify({
 });
 
 // adding some new features
+// this is more stuff
 
 w.on('open', () => w.send(msg))
