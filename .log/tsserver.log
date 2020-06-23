@@ -1,0 +1,273 @@
+Info 0    [19:56:2.390] Starting TS Server
+Info 1    [19:56:2.390] Version: 3.7.2
+Info 2    [19:56:2.390] Arguments: /usr/bin/node /usr/bin/tsserver --logFile /home/eliraz/workspace/test/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/4b611f960cf4d72a5e02f3067d9890f5/tscancellation*
+Info 3    [19:56:2.390] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [19:56:2.399] Search path: /home/eliraz/workspace/test
+Info 5    [19:56:2.400] For info: /home/eliraz/workspace/test/release.config.js :: No config files found.
+Info 6    [19:56:2.407] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 7    [19:56:10.15] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 7608ms
+Info 8    [19:56:10.15] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 9    [19:56:10.15] 	Files (133)
+
+Info 10   [19:56:10.15] -----------------------------------------------
+Info 11   [19:56:10.51] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [19:56:10.97] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 46ms
+Info 13   [19:56:10.97] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 14   [19:56:10.98] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 15   [19:56:10.128] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 29ms
+Info 16   [19:56:10.128] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 17   [19:56:10.129] getCompletionData: Get current token: 0
+Info 18   [19:56:10.129] getCompletionData: Is inside comment: 0
+Info 19   [19:56:10.129] getCompletionData: Get previous token 1: 0
+Info 20   [19:56:10.129] getCompletionData: Get previous token 2: 0
+Info 21   [19:56:10.134] getCompletionData: Semantic work: 5
+Info 22   [19:56:10.142] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 8
+Info 23   [19:56:10.154] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 24   [19:56:10.183] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 29ms
+Info 25   [19:56:10.183] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 26   [19:56:10.183] getCompletionData: Get current token: 0
+Info 27   [19:56:10.183] getCompletionData: Is inside comment: 0
+Info 28   [19:56:10.183] getCompletionData: Get previous token 1: 0
+Info 29   [19:56:10.183] getCompletionData: Get previous token 2: 0
+Info 30   [19:56:10.183] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 31   [19:56:10.187] getCompletionData: Semantic work: 4
+Info 32   [19:56:10.193] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6
+Info 33   [19:56:10.198] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 34   [19:56:10.220] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 22ms
+Info 35   [19:56:10.221] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 36   [19:56:10.222] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 37   [19:56:10.242] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 20ms
+Info 38   [19:56:10.243] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 39   [19:56:10.243] getCompletionData: Get current token: 0
+Info 40   [19:56:10.243] getCompletionData: Is inside comment: 0
+Info 41   [19:56:10.243] getCompletionData: Get previous token 1: 0
+Info 42   [19:56:10.243] getCompletionData: Get previous token 2: 0
+Info 43   [19:56:10.243] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 44   [19:56:10.243] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 45   [19:56:10.269] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 26ms
+Info 46   [19:56:10.270] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 47   [19:56:10.270] getCompletionData: Get current token: 0
+Info 48   [19:56:10.270] getCompletionData: Is inside comment: 0
+Info 49   [19:56:10.270] getCompletionData: Get previous token 1: 0
+Info 50   [19:56:10.270] getCompletionData: Get previous token 2: 0
+Info 51   [19:56:10.270] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 52   [19:56:10.271] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 53   [19:56:10.292] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 21ms
+Info 54   [19:56:10.292] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 55   [19:56:10.298] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 56   [19:56:10.375] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 77ms
+Info 57   [19:56:10.375] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 58   [19:56:10.742] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 59   [19:56:10.758] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 16ms
+Info 60   [19:56:10.758] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 61   [19:56:10.758] getCompletionData: Get current token: 0
+Info 62   [19:56:10.758] getCompletionData: Is inside comment: 0
+Info 63   [19:56:10.758] getCompletionData: Get previous token 1: 0
+Info 64   [19:56:10.758] getCompletionData: Get previous token 2: 0
+Info 65   [19:56:10.758] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 66   [19:56:11.206] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 67   [19:56:11.252] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 46ms
+Info 68   [19:56:11.252] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 69   [19:56:11.253] getCompletionData: Get current token: 0
+Info 70   [19:56:11.253] getCompletionData: Is inside comment: 0
+Info 71   [19:56:11.253] getCompletionData: Get previous token 1: 0
+Info 72   [19:56:11.253] getCompletionData: Get previous token 2: 0
+Info 73   [19:56:11.253] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 74   [19:56:11.611] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 75   [19:56:11.628] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 17ms
+Info 76   [19:56:11.628] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 77   [19:56:11.629] getCompletionData: Get current token: 0
+Info 78   [19:56:11.629] getCompletionData: Is inside comment: 0
+Info 79   [19:56:11.629] getCompletionData: Get previous token 1: 0
+Info 80   [19:56:11.629] getCompletionData: Get previous token 2: 0
+Info 81   [19:56:11.629] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 82   [19:56:12.270] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 83   [19:56:12.307] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 36ms
+Info 84   [19:56:12.307] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 85   [19:56:13.110] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 86   [19:56:13.198] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: true Elapsed: 87ms
+Info 87   [19:56:13.198] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 88   [19:56:13.198] 	Files (135)
+
+Info 89   [19:56:13.198] -----------------------------------------------
+Info 90   [19:56:13.199] Structure before ensureProjectForOpenFiles:
+Info 91   [19:56:13.199] Structure after ensureProjectForOpenFiles:
+Info 92   [19:56:13.199] got projects updated in background, updating diagnostics for /home/eliraz/workspace/test/release.config.js
+Info 93   [19:56:13.662] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 94   [19:56:13.711] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 49ms
+Info 95   [19:56:13.711] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 96   [19:56:13.711] Structure before ensureProjectForOpenFiles:
+Info 97   [19:56:13.711] Structure after ensureProjectForOpenFiles:
+Info 98   [19:56:13.711] got projects updated in background, updating diagnostics for /home/eliraz/workspace/test/release.config.js
+Info 99   [19:56:14.509] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 100  [19:56:14.532] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 23ms
+Info 101  [19:56:14.532] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 102  [19:56:15.990] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 103  [19:56:16.41] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 51ms
+Info 104  [19:56:16.41] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 105  [19:56:16.212] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 106  [19:56:16.246] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false Elapsed: 34ms
+Info 107  [19:56:16.247] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 108  [19:56:16.492] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 109  [19:56:16.544] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false Elapsed: 52ms
+Info 110  [19:56:16.544] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 111  [19:56:16.940] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 112  [19:56:16.965] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false Elapsed: 25ms
+Info 113  [19:56:16.965] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 114  [19:56:17.447] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 115  [19:56:17.493] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false Elapsed: 46ms
+Info 116  [19:56:17.493] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 117  [19:56:17.809] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 118  [19:56:17.852] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false Elapsed: 43ms
+Info 119  [19:56:17.852] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 120  [19:56:17.853] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 121  [19:56:17.938] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false Elapsed: 38ms
+Info 122  [19:56:17.938] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 123  [19:56:18.760] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 124  [19:56:18.789] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false Elapsed: 29ms
+Info 125  [19:56:18.789] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 126  [19:56:19.389] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 127  [19:56:19.411] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: false Elapsed: 22ms
+Info 128  [19:56:19.411] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 129  [19:56:20.480] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 130  [19:56:20.511] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false Elapsed: 31ms
+Info 131  [19:56:20.511] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 132  [19:56:20.762] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 133  [19:56:20.806] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: false Elapsed: 44ms
+Info 134  [19:56:20.806] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 135  [19:56:21.80] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 136  [19:56:21.126] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false Elapsed: 46ms
+Info 137  [19:56:21.126] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 138  [19:56:21.423] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 139  [19:56:21.474] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 29 structureChanged: false Elapsed: 51ms
+Info 140  [19:56:21.474] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 141  [19:56:21.993] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 142  [19:56:22.41] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 30 structureChanged: false Elapsed: 48ms
+Info 143  [19:56:22.41] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 144  [19:56:22.620] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 145  [19:56:22.674] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 31 structureChanged: false Elapsed: 54ms
+Info 146  [19:56:22.674] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 147  [19:56:22.948] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 148  [19:56:22.993] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 32 structureChanged: false Elapsed: 45ms
+Info 149  [19:56:22.993] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 150  [19:56:23.922] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 151  [19:56:23.966] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 33 structureChanged: false Elapsed: 44ms
+Info 152  [19:56:23.967] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 153  [19:56:37.391] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 154  [19:56:37.427] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 34 structureChanged: false Elapsed: 35ms
+Info 155  [19:56:37.427] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 156  [19:56:37.427] getCompletionData: Get current token: 0
+Info 157  [19:56:37.427] getCompletionData: Is inside comment: 0
+Info 158  [19:56:37.427] getCompletionData: Get previous token 1: 0
+Info 159  [19:56:37.427] getCompletionData: Get previous token 2: 0
+Info 160  [19:56:37.432] getCompletionData: Semantic work: 5
+Info 161  [19:56:37.443] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 11
+Info 162  [19:56:38.73] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 163  [19:56:38.103] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 35 structureChanged: false Elapsed: 30ms
+Info 164  [19:56:38.103] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 165  [19:56:38.104] getCompletionData: Get current token: 0
+Info 166  [19:56:38.104] getCompletionData: Is inside comment: 0
+Info 167  [19:56:38.104] getCompletionData: Get previous token 1: 0
+Info 168  [19:56:38.104] getCompletionData: Get previous token 2: 0
+Info 169  [19:56:38.108] getCompletionData: Semantic work: 4
+Info 170  [19:56:38.115] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 7
+Info 171  [19:56:38.430] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 172  [19:56:38.494] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 36 structureChanged: false Elapsed: 64ms
+Info 173  [19:56:38.494] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 174  [19:56:39.569] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 175  [19:56:39.603] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 37 structureChanged: false Elapsed: 34ms
+Info 176  [19:56:39.603] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 177  [19:56:40.849] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 178  [19:56:40.880] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 38 structureChanged: false Elapsed: 31ms
+Info 179  [19:56:40.880] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 180  [19:56:41.470] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 181  [19:56:41.507] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 39 structureChanged: false Elapsed: 36ms
+Info 182  [19:56:41.507] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 183  [19:56:41.741] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 184  [19:56:41.791] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 40 structureChanged: false Elapsed: 50ms
+Info 185  [19:56:41.791] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 186  [19:56:41.791] getCompletionData: Get current token: 0
+Info 187  [19:56:41.791] getCompletionData: Is inside comment: 0
+Info 188  [19:56:41.791] getCompletionData: Get previous token 1: 0
+Info 189  [19:56:41.791] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 190  [19:56:41.796] getCompletionData: Semantic work: 5
+Info 191  [19:56:41.796] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0
+Info 192  [19:56:42.39] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 193  [19:56:42.88] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 41 structureChanged: false Elapsed: 49ms
+Info 194  [19:56:42.88] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 195  [19:56:42.90] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 196  [19:56:42.115] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 42 structureChanged: false Elapsed: 25ms
+Info 197  [19:56:42.115] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 198  [19:56:42.720] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 199  [19:56:42.772] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 43 structureChanged: false Elapsed: 51ms
+Info 200  [19:56:42.772] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 201  [19:56:42.792] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 202  [19:56:42.819] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 44 structureChanged: false Elapsed: 27ms
+Info 203  [19:56:42.819] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 204  [19:56:42.995] getCompletionData: Get current token: 0
+Info 205  [19:56:42.995] getCompletionData: Is inside comment: 0
+Info 206  [19:56:42.995] getCompletionData: Get previous token 1: 0
+Info 207  [19:56:42.995] getCompletionData: Get previous token 2: 0
+Info 208  [19:56:42.995] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 209  [19:56:42.997] getCompletionData: Semantic work: 2
+Info 210  [19:56:42.997] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0
+Info 211  [19:56:43.524] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 212  [19:56:43.577] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 45 structureChanged: false Elapsed: 52ms
+Info 213  [19:56:43.577] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 214  [19:56:44.102] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 215  [19:56:44.141] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 46 structureChanged: false Elapsed: 39ms
+Info 216  [19:56:44.141] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 217  [19:56:45.124] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 218  [19:56:45.167] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 47 structureChanged: false Elapsed: 43ms
+Info 219  [19:56:45.167] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 220  [19:56:45.168] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 221  [19:56:45.190] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 48 structureChanged: false Elapsed: 22ms
+Info 222  [19:56:45.190] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 223  [19:56:45.568] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 224  [19:56:45.617] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 49 structureChanged: false Elapsed: 48ms
+Info 225  [19:56:45.617] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 226  [19:58:23.706] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 227  [19:58:23.783] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 50 structureChanged: false Elapsed: 77ms
+Info 228  [19:58:23.783] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 229  [19:58:26.144] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 230  [19:58:26.194] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 51 structureChanged: false Elapsed: 50ms
+Info 231  [19:58:26.194] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 232  [19:59:0.732] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 233  [19:59:0.799] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 52 structureChanged: false Elapsed: 66ms
+Info 234  [19:59:0.799] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 235  [19:59:1.141] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 236  [19:59:1.177] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 53 structureChanged: false Elapsed: 36ms
+Info 237  [19:59:1.177] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 238  [19:59:1.820] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 239  [19:59:1.875] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 54 structureChanged: false Elapsed: 55ms
+Info 240  [19:59:1.875] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 241  [19:59:4.222] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 242  [19:59:4.254] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 55 structureChanged: false Elapsed: 31ms
+Info 243  [19:59:4.254] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 244  [19:59:5.520] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 245  [19:59:5.576] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 56 structureChanged: false Elapsed: 56ms
+Info 246  [19:59:5.576] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 247  [19:59:15.806] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 248  [19:59:15.845] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 57 structureChanged: false Elapsed: 39ms
+Info 249  [19:59:15.845] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 250  [19:59:16.193] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 251  [19:59:16.240] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 58 structureChanged: false Elapsed: 47ms
+Info 252  [19:59:16.240] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 253  [19:59:18.563] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 254  [19:59:18.596] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 59 structureChanged: false Elapsed: 33ms
+Info 255  [19:59:18.596] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 256  [19:59:19.397] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 257  [19:59:19.422] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 60 structureChanged: false Elapsed: 25ms
+Info 258  [19:59:19.422] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 259  [19:59:20.722] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 260  [19:59:20.769] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 61 structureChanged: false Elapsed: 47ms
+Info 261  [19:59:20.769] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 262  [19:59:23.336] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 263  [19:59:23.390] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 62 structureChanged: false Elapsed: 54ms
+Info 264  [19:59:23.390] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 265  [19:59:23.391] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 266  [19:59:23.410] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 63 structureChanged: false Elapsed: 19ms
+Info 267  [19:59:23.410] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 268  [19:59:25.659] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 269  [19:59:25.685] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 64 structureChanged: false Elapsed: 25ms
+Info 270  [19:59:25.685] Different program with same set of files:: oldProgram.structureIsReused:: 2

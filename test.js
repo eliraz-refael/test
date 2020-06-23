@@ -7,6 +7,8 @@ let msg = JSON.stringify({
   event: 'subscribe', 
   channel: 'ticker', 
   symbol: 'tBTCUSD' 
-})
+});
+
+// adding some new features
 
 w.on('open', () => w.send(msg))
